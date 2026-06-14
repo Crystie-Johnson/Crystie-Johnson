@@ -51,5 +51,6 @@ BiDeveloperServices@gmail.com
 <br>Phone: 470-377-1316
 <br><br>
 
+
 ## 👋 Full Resume
-<br/><a href="[https://github.com/Crystie-Johnson/Resume/blob/main/Crystie%20Johnson%20Resume%202026.pdf](https://github.com/Crystie-Johnson/Resume/blob/main/Crystie%20Johnson%20Resume%202026.docx)/">Professional Resume</a></h1>
+<br/><a href="https://github.com/Crystie-Johnson/Resume/blob/main/Crystie%20Johnson%20Resume%202026.pdf/">Professional Resume</a></h1>
