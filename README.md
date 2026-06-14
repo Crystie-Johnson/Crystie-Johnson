@@ -11,7 +11,7 @@ My name is Crystie Johnson, and I'm a results-driven Senior Data Architect and D
 - ⚡ Fun fact: I’ve spent 20+ years designing data solutions across aerospace, healthcare, logistics, retail, and government systems—and I still love solving complex data puzzles<br>
 
 <h2>👨‍💻 Professional Profile | Core Capabilities:</h2>
-https://github.com/Crystie-Johnson/Crystie_Johnson
+https://github.com/Crystie-Johnson/Crystie-Johnson
 
 <h2>👨‍💻 Software Development Projects:</h2>
  <table>
