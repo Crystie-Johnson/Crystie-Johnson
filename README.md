@@ -1,10 +1,6 @@
 
 # Welcome to Crystie Johnson's GitHub Profile
 
-## 👋 Greetings, I'm Crystie Johnson 
-
-<img width="1440" height="1440" alt="IMG_0555" src="https://github.com/user-attachments/assets/f25aec28-b510-4f2a-a20a-c16cdb6bd83d" />
-
 <!--
 ![1000002116](https://github.com/user-attachments/assets/1928d91c-04a6-4df7-ae57-9be69df00479)
 -->
