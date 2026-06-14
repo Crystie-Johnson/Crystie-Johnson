@@ -2,7 +2,7 @@
 My name is Crystie Johnson, and I'm a results-driven Senior Data Architect and Data Engineering Leader with over 20 years of experience designing, modernizing, and operationalizing enterprise-scale data platforms, cloud migration initiatives, and advanced analytics ecosystems across Azure, Databricks, AWS, and hybrid enterprise environments. Extensive expertise building scalable data ingestion pipelines capable of processing structured, semi-structured, and unstructured data from batch and real-time streaming sources including APIs, relational databases, flat files, message queues, and distributed cloud platforms.
 
 - 🔭 I’m currently working on enterprise data architecture solutions, cloud data migrations, ETL modernization projects, and building scalable analytics platforms with Azure, Databricks, Snowflake, and SQL Server <br>
-- 🌱 I’m currently learning advanced Lakehouse architecture patterns, AI-driven data engineering workflows, Unity Catalog governance, and modern real-time streaming with Kafka & Spark<br>
+- 🌱 I’m currently strengthening my AI integration skills to apply AI across data solutions, SQL development, reporting automation, data validation, and business intelligence workflows.<br>
 - 👯 I’m looking to collaborate on data engineering, cloud migration, business intelligence, ETL automation, and open-source analytics projects<br>
 - 🤔 I’m looking for help with expanding my professional network, contributing to open-source projects, and finding exciting 100% remote Senior Data Engineer/Data Architect opportunities.<br>
 - 💬 Ask me about SQL Server, Data Warehousing, Data Architecture, Azure Data Factory, Databricks, ETL frameworks, BI strategy, performance tuning, and large-scale enterprise migrations<br>
